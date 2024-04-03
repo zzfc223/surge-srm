@@ -1,3 +1,4 @@
 # 内容：OtherServer
 # 数量：1条
-DOMAIN,gemini.google.com
+# DOMAIN,gemini.google.com
+# DOMAIN-SUFFIX,google.com
